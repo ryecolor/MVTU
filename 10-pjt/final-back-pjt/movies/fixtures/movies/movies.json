@@ -1,0 +1,776 @@
+[
+  {
+    "model": "movies.movie",
+    "pk": 1,
+    "fields": {
+      "title": "오늘 밤, 세계에서 이 사랑이 사라진다 해도",
+      "released": 2022,
+      "category": "로맨스/드라마",
+      "running_time": "2시간 1분",
+      "poster_url": "https://img.movist.com/?img=/x00/05/67/53_p1.jpg",
+      "detail": "'카미야 토오루에 대해 잊지 말 것' 자고 일어나면 전날의 기억을 잃는 '선행성 기억상실증'에 걸린 소녀 `마오리`. '내일의 마오리도 내가 즐겁게 해 줄 거야' 누구에게도 기억되지 않는 무색무취의 평범한 소년 `토오루`. 매일 밤 사랑이 사라지는 세계, 그럼에도 불구하고, 다음 날 서로를 향한 애틋한 고백을 반복하는 두 소년, 소녀의 가장 슬픈 청춘담",
+      "score": 7.94,
+      "trailer_url": "https://youtu.be/dKWbgcKkn20?si=woZgB3i58UUSqdD0"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 2,
+    "fields": {
+      "title": "눈물을 만드는 사람",
+      "released": 2024,
+      "category": "로맨스/드라마",
+      "running_time": "1시간 45분",
+      "poster_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7igegLmMUbbFDHKzVTMwstD-PAe9cgXe3xXIuLneQ9ooG09VX",
+      "detail": "니카와 리젤은 한 보육원에서 자라 같은 부모님 아래로 입양된다. 피는 섞이지 않았지만 가족으로 엮여 일상을 살아가던 두 사람 사이에 불꽃같은 감정이 일어나고, 모든 것이 흔들린다.",
+      "score": 6.35,
+      "trailer_url": "https://youtu.be/QZwwferT8p4?si=rCCqX4lEHAiJkkLl"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 3,
+    "fields": {
+      "title": "케이터링 크리스마스",
+      "released": 2023,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 26분",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPufKvUP_Sy8ShopcPmycf6onXwlHUz36735rYEEkHF1p3uWFc",
+      "detail": "작은 케이터링 업체를 운영하는 여성. 지역 재단의 크리스마스 축제 만찬을 위해 요리하다가 만찬 주최자의 멋진 조카와 뜻밖의 교감을 나누게 된다.",
+      "score": 6.0,
+      "trailer_url": "https://youtu.be/gpWlIEi_eKI?si=dIdDOg8IbXkhldYb"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 4,
+    "fields": {
+      "title": "그런데, 치기라 군이 너무 달콤해",
+      "released": 2023,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 38분",
+      "poster_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2uy6uim6sFuh0PyBnEoWdvYhl3DZzDWJOL6EoAUfHgv7Xaxvu",
+      "detail": "인생 첫 고백을 멋지게 실패한 고등학교 2학년 실연녀 마야. 풀죽어 있는 모습을 육상부 에이스이자 학교 제일의 꽃미남 치기라 군에게 들키게 된다. 인기가 많지만 주변 사람들에게 차갑게 대하는 치기라 군은 어째서인지 마야에게 '짝사랑 놀이'를 제안한다! '좋아하는 사람을 억지로 찾아다닐 거면 나한테 짝사랑해 보는 건 어때?' 짝사랑 놀이의 조건은 절대 진짜로 좋아하지 않는 것과 주위에 들키지 않는 것. 좋아하면 안 된다고 약속했는데, 상냥한 데다 자신에게만 잘해주는 치기라 군과의 비밀 관계에 마야의 마음은 점점 흔들리게 되고... 치기라 군의 진심은? 두 사람의 사랑의 행방은?",
+      "score": 7.6,
+      "trailer_url": "https://youtu.be/r6dKM_rDEWc?si=RTJhboStklw-6tT-"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 5,
+    "fields": {
+      "title": "롱디",
+      "released": 2023,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 41분",
+      "poster_url": "https://img.movist.com/?img=/x00/05/82/06_p1.jpg",
+      "detail": "'5년 만나는 동안 이렇게 떨어져 본 적 있나?' 외제차 딜러인 도하와 인디밴드 연신굽신의 메인 보컬 태인은 5년차 달달 커플이다. 서른을 앞두고, 밴드 활동에 위기가 찾아오자 태인은 곡 작업을 위해 고향인 거제로 내려갈 결심을 하고, 태인의 갑작스러운 결정에 도하는 울며 겨자 먹기로 장거리 연애를 수락한다. 롱디임에도 매일매일 쉴 새 없는 카톡과 영상통화로 넘쳐나는 사랑을 표현하던 도하는 결국 5주년 기념일 맞이 깜짝 프로포즈를 준비하고, 특급 고객 제임스는 같은 날 파티를 주최하는 것도 모자라 도하에게 거절할 수 없는 제안을 한다. 잠깐 들르기만 하려던 도하의 계획은 필름이 끊기면서 차질이 생기고, 설상가상 그날의 사건(?)이 SNS에 퍼지며 일과 사랑 모두 총체적 난국을 맞이한다. 화면 너머로 사랑을 이어가는 건 정말 어려운 걸까? MZ 세대가 전하는 이 시대의 새로운 사랑법!",
+      "score": 9.09,
+      "trailer_url": "https://youtu.be/EhTxaKY8xT4?si=YyP7rpSHW5e_AAZA"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 6,
+    "fields": {
+      "title": "지금 만나러 갑니다",
+      "released": 2018,
+      "category": "로맨스/판타지",
+      "running_time": "2시간 12분",
+      "poster_url": "https://i.namu.wiki/i/2KxjyRhzlGLaH2_HLG9xnNaeKzCDgXIvyrUuZOeui1HktHcZjU1FGoa6L4Qd1Ir5ESPIf4lGGeCuAK9Z1k0zmQ.webp",
+      "detail": "비가 오는 날 다시 돌아오겠다는 믿기 힘든 약속을 남기고 세상을 떠난 수아. 그로부터 1년 뒤 장마가 시작되는 어느 여름날, 세상을 떠나기 전과 다름없는 모습의 수아가 나타난다. 하지만 수아는 우진이 누구인지조차도 기억하지 못한다. 난, 너와 다시 사랑에 빠졌어. 자신을 기억하지 못해도 그녀가 곁에 있다는 사실만으로 행복에 젖은 우진과 자신이 기억하지 못하는 그와의 이야기가 궁금한 수아. 우진이 들려주는 첫만남, 첫사랑, 첫 데이트, 첫 행복의 순간을 함께 나누며 수아는 우진과 다시 사랑에 빠지는데… 기다려 주세요. 지금 만나러 갑니다.",
+      "score": 8.99,
+      "trailer_url": "https://youtu.be/w_TvJGKn8IQ?si=tEJhhOCOJx6f2GVN"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 7,
+    "fields": {
+      "title": "작은 아씨들",
+      "released": 1994,
+      "category": "로맨스/드라마",
+      "running_time": "2시간 15분",
+      "poster_url": "https://img7.yna.co.kr/etc/inner/KR/2020/02/02/AKR20200202028400005_01_i_P2.jpg",
+      "detail": "배우 지망생 메그, 작가 지망생 조, 음악을 좋아하는 베스와 그림을 그리는 에이미는 아버지 없이 어머니와 같이 산다. 이웃집 소년 로리는 이들과 어울리면서 인연을 쌓고, 7년 후 어른이 된 그들 앞에 각기 다른 인생의 숙제가 놓여지게 된다.",
+      "score": 7.3,
+      "trailer_url": "https://youtu.be/79_nkjuOWVg?si=xBLpxtSfMRBrSDE-"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 8,
+    "fields": {
+      "title": "타이타닉",
+      "released": 1997,
+      "category": "로맨스/드라마",
+      "running_time": "3시간 14분",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/ko/a/a0/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89.jpg",
+      "detail": "1912년 4월 귀족 가문의 딸인 로즈는 타이타닉호에 승선한다. 사랑하지도 않는 남자와 결혼해야 한다는 사실에 절망한 로즈는 자살을 시도하지만, 마침 가난한 화가인 잭이 구해 주게 되고 둘은 서로 사랑에 빠진다.",
+      "score": 7.9,
+      "trailer_url": "https://youtu.be/F_KNku_Xu-0?si=gEuGusFfeIu2XzLh"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 9,
+    "fields": {
+      "title": "미녀와 야수",
+      "released": 2017,
+      "category": "로맨스/판타지",
+      "running_time": "2시간 9분",
+      "poster_url": "https://i.namu.wiki/i/GYcwaPtv0i74nkYTAWWu2vPoC-Mrls4GEkDWAUQbQImkGqoTF8KFxKFFmRcekL-axE2X2hGH7g1DFhBhbUVtAA.webp",
+      "detail": "아름답고 총명한 소녀 벨은 사라진 그녀의 아버지를 찾기 위해 무서운 야수의 성에 들어간다. 그곳에서 지내던 벨은 야수가 인간으로 돌아갈 수 있는 시간이 얼마 남지 않은, 저주에 걸린 왕자라는 것을 알게 된다.",
+      "score": 7.1,
+      "trailer_url": "https://youtu.be/n7LZA4Er7_g?si=oWD2Cb4Q_sEng5Qq"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 10,
+    "fields": {
+      "title": "어글리 트루스",
+      "released": 2009,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 35분",
+      "poster_url": "https://file.newswire.co.kr/data/datafile2/thumb_480/2009/08/2039103817_20090804093330_1562630191.jpg",
+      "detail": "고품격 교양 방송을 지향하는 노처녀 아침 뉴스 PD 애비. 강아지보다 고양이를, 외모보다 마음을, 야한 농담 보다는 레드와인과 클래식을 즐기는 남자를 기다리는 그녀 앞에 본능충성지수 100%의 남자가 나타났다! 그는 바로 심야 TV쇼의 섹스카운셀러 마이크. '사랑=섹스, 남자=변태'라는 대담하고 노골적인 내용으로 방송계를 발칵 뒤집은 그가 애비의 프로그램에 출연하게 된 것. 마초 9단 마이크는 남녀 관계에 대한 솔직하고 거침없는 입담으로 완벽한 사랑를 기다리는 내숭 9단 애비의 환상을 무참히 깨 버린다. 그러던 어느 날, 마침내 애비 앞에 외모, 능력, 매너까지 갖춘 완벽남이 등장하면서 애비와 마이크의 새로운 내기가 시작되는데…",
+      "score": 8.41,
+      "trailer_url": "https://youtu.be/Nk0R_ru5V78?si=nMKsDp7zt-maW-W2"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 11,
+    "fields": {
+      "title": "장르만 로맨스",
+      "released": 2021,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 53분",
+      "poster_url": "https://i.namu.wiki/i/A0lmjCTW_9D8DbS-jmZugQd2El9ojwy9pwZ1C30NxYmII9fB3tiljGSfHIgMLjnWCzphWVquOEoonifu4T9e_8NPZhvJTXdVcqWVBAd_w3p1KdwTpcNRCg_VKo1y1upzMK8y683z79rhPK5oJlZzjw.webp",
+      "detail": "7년 동안 책을 쓰지 않던 작가 현은 전처인 미애와 업무적인 관계를 이어간다. 현의 오랜 친구이자 담당 출판사 대표인 순모는 현 몰래 미애와의 비밀 연애를 하고, 현과 미애의 아들인 성경은 계속 엮이게 되는 정원과 점차 가까워지게 된다.",
+      "score": 7.06,
+      "trailer_url": "https://youtu.be/Eio2Kew3_6Y?si=SlWpv_YOm5PXCs-m"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 12,
+    "fields": {
+      "title": "알라딘",
+      "released": 2019,
+      "category": "어린이/판타지",
+      "running_time": "2시간 8분",
+      "poster_url": "https://lumiere-a.akamaihd.net/v1/images/image_9e35a739.jpeg?region=0,0,540,810",
+      "detail": "사막 속에 자리한 아그라바 왕국, 좀도둑질로 생계를 유지하는 알라딘은 우연히 마주친 공주 자스민에게 신분도 모른 채 마음을 빼앗긴다.",
+      "score": 9.41,
+      "trailer_url": "https://youtu.be/KrM3vS5sy2w?si=nG7Q_lYzZOZjmJKH"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 13,
+    "fields": {
+      "title": "포레스트 검프",
+      "released": 1994,
+      "category": "로맨스/코미디",
+      "running_time": "2시간 22분",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/ko/7/74/%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8_%EA%B2%80%ED%94%84_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "detail": "IQ가 75인 포레스트 검프는 교육에 힘쓰는 어머니의 보살핌 아래 긍정적인 마음을 가지고 살아간다. 학교에서 괴롭히는 아이들을 피하기 위해 달리던 포레스트는 자신의 재능이 달리기임을 깨닫는다. 이후 포레스트는 대학의 미식축구 선수가 되고 졸업 후에는 군에 입대한다.",
+      "score": 9.52,
+      "trailer_url": "https://youtu.be/Hh8uuP3cOL4?si=HUyOVbnwmEf_2MqD"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 14,
+    "fields": {
+      "title": "라라랜드",
+      "released": 2016,
+      "category": "로맨스/뮤지컬",
+      "running_time": "2시간 8분",
+      "poster_url": "https://img.cgv.co.kr/Movie/Thumbnail/StillCut/000085/85672/85672200257_727.jpg",
+      "detail": "할리우드 배우 지망생 미아와 재즈바를 차리는 게 꿈인 피아노 연주자 세바스찬은 우연히 만나 서로의 꿈을 응원하는 연인 사이가 된다. 세바스찬은 오디션 낙방에 아쉬워하는 미아를 격려하고, 돈을 벌기 위해 공연 투어에 나서지만 미아는 재즈바라는 꿈을 본격적으로 쫓지 않는 그가 탐탁지 않다.",
+      "score": 8.92,
+      "trailer_url": "https://youtu.be/Dt5hFexM5BI?si=yFb7-hhs2aY9KriT"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 15,
+    "fields": {
+      "title": "너의 췌장을 먹고 싶어",
+      "released": 2017,
+      "category": "로맨스/드라마",
+      "running_time": "1시간 55분",
+      "poster_url": "https://img.movist.com/?img=/x00/04/97/28_p1.jpg",
+      "detail": "일부러 외톨이로 지내는 한 소년은 병원에서 같은 반의 인기 많은 소녀 사쿠라의 공병 문고를 우연히 주워 읽게 된다. 사쿠라가 췌장암을 앓으며 시한부 인생을 산다는 비밀을 알게 된 소년은 사쿠라와 점차 가까워지며 비밀을 공유하며 가깝게 지내는 사이가 된다.",
+      "score": 8.49,
+      "trailer_url": "https://youtu.be/JD1K-jop4mI?si=Mg3SGBMK0b4cdEaO"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 16,
+    "fields": {
+      "title": "늑대소년",
+      "released": 2012,
+      "category": "로맨스/드라마",
+      "running_time": "2시간 6분",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/ko/f/f4/%EB%8A%91%EB%8C%80%EC%86%8C%EB%85%84_%28%EC%98%81%ED%99%94%29.jpg",
+      "detail": "순이는 가족들과 이사 간 숲 근처의 마을에서 야생의 늑대소년을 발견한다. 사람과 달리 행동하는 그가 마음에 쓰인 순이는 사람들이 살아가는 방식을 하나씩 알려주며 친해지고, 늑대소년은 자신의 세계에 유일한 존재인 순이에게 따뜻한 감정을 느낀다.",
+      "score": 8.66,
+      "trailer_url": "https://youtu.be/66S2bjlapjM?si=pMAgW74_0P-fn_XL"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 17,
+    "fields": {
+      "title": "주토피아",
+      "released": 2016,
+      "category": "애니메이션",
+      "running_time": "1시간 48분",
+      "poster_url": "https://lumiere-a.akamaihd.net/v1/images/movie_poster_zootopia_866a1bf2.jpeg",
+      "detail": "동물 주민들이 사는 평화로운 주토피아, 토끼 종족 최초로 경찰이 된 열정 넘치는 주디는 덩치가 큰 육식 동물들 사이에서 경찰로 활약하기 위해 애쓴다.",
+      "score": 9.33,
+      "trailer_url": "https://youtu.be/K4OJXmoakF4?si=7h5RJygP9S62ohwu"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 18,
+    "fields": {
+      "title": "키싱 부스",
+      "released": 2018,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 45분",
+      "poster_url": "https://i.namu.wiki/i/v9D0xqvj06kBX83zkH1dbTO0YDvzW1FysOVU_kGev7s4pG02904ejifp7I4mQtaoJ2dl-iZzToJMcx8KXkTw_A.webp",
+      "detail": "엘과 리는 어린 시절부터 함께한 단짝 친구로, 항상 같이 다니며 서로 모든 일을 공유한다. 어느 날부터, 엘은 리의 형이자 잘생긴 미식축구 선수인 노아에게 자꾸 마음을 빼앗긴다.",
+      "score": 7.65,
+      "trailer_url": "https://youtu.be/7bfS6seiLhk?si=4Wb2xNCUInGNK64q"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 19,
+    "fields": {
+      "title": "플립",
+      "released": 2010,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 30분",
+      "poster_url": "https://i.namu.wiki/i/JS79rwPSpZAZUtT6l-bEVT6UtS8x4QgzqX0U-lz0u9iPVNe9gNkFdKlblBUcJnu92wN13yFLuNv7OklQKZID-w.webp",
+      "detail": "7살 줄리는 옆집에 새로 이사 온 소년 브라이스에게 첫눈에 반한다. 줄리는 열렬히 자신의 마음을 표현하지만 브라이스는 부담스러워하며 시큰둥한 반응뿐이다. 그러기를 6년, 브라이스는 줄리가 자신에게 준 선물을 쓰레기통에 버리다가 줄리에게 들키고 만다.",
+      "score": 9.11,
+      "trailer_url": "https://youtu.be/cgv5TBbNik4?si=09ow2SlIq-QZH9wH"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 20,
+    "fields": {
+      "title": "500일의 썸머",
+      "released": 2009,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 35분",
+      "poster_url": "https://i.namu.wiki/i/0mhX0OSfN7M6V9SYuA6_EpH1qdPQU1NTE0MuYjGJHP8CWW5-s6GcPsi1-7omam4G6O-Nm-PdYbYfqI3881tv5w.webp",
+      "detail": "구제불능의 로맨티스트 톰은 너무도 예쁜 썸머를 만나 사랑에 빠진다. 썸머는 그가 주는 관심에 다정하게 응답하고, 이내 두 사람은 연인이 되어 500일의 시간을 함께 보낸다.",
+      "score": 8.92,
+      "trailer_url": "https://youtu.be/BDfKbpkIMrI?si=9zglxBmrrbFXsOYd"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 21,
+    "fields": {
+      "title": "이터널 선샤인",
+      "released": 2004,
+      "category": "로맨스/SF",
+      "running_time": "1시간 48분",
+      "poster_url": "https://i.namu.wiki/i/mWDDNtUv4ARaCibAzWC3yarb1JptWSZNvWSTLUqY0DATCUZgSihpc4H4PEFdBDgccl0nnfeHDjfKxM21rxdJFQ.webp",
+      "detail": "조엘은 자신의 완벽한 반쪽이라 믿었던 헤어진 애인 클레멘타인이 자신을 기억 속에서 완전히 지워 버렸다는 사실을 깨닫고 똑같이 자신의 머릿속에서도 클레멘타인을 지우기로 한다.",
+      "score": 9.26,
+      "trailer_url": "https://youtu.be/qmth-PGDD0Q?si=I4iZN1KEKk9mzX6-"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 22,
+    "fields": {
+      "title": "클래식",
+      "released": 2003,
+      "category": "로맨스/드라마",
+      "running_time": "2시간 12분",
+      "poster_url": "https://i.namu.wiki/i/BIl3oY17WExT8MRfFK8BAd_OrbuAe6dbY4ouievj5wKjZN5vZqeYF0oGRo37UEnqmRAr4cOxer2xVR7VoMAvgw.webp",
+      "detail": "대학생 지혜와 수경은 연극반 선배 상민을 짝사랑한다. 수경이 지혜에게 고백편지 대필을 부탁하고 지혜는 수경의 이름으로 자신의 마음을 전한다. 지혜의 편지를 통해 수경과 상민은 사귀게 되고, 지혜는 상민을 멀리한다.",
+      "score": 8.97,
+      "trailer_url": "https://youtu.be/Jb1eMxccojs?si=09-I6pAkoQScFfDj"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 23,
+    "fields": {
+      "title": "노트북",
+      "released": 2004,
+      "category": "로맨스/코미디",
+      "running_time": "2시간 1분",
+      "poster_url": "https://i.namu.wiki/i/LXtgXAOg5YEj-EWmeQhRJIj3b8JipFuhIBQl-9UmkqD4-CbF978X7T4HQBIGmyw-VxRkb9j8RLZDgDHlU2nXcA.webp",
+      "detail": "17살, 목공 노아는 부잣집 딸 앨리와 사랑에 빠진다. 하지만 앨리의 부모가 둘의 사랑을 반대하고 결국 이들은 엇갈리고 만다. 노아는 앨리에게 매일같이 편지를 보내지만 앨리의 어머니가 편지를 숨겨 전달되지 못한다. 이후 전쟁이 시작되고 둘의 인생은 점차 다른 길로 접어든다.",
+      "score": 9.43,
+      "trailer_url": "https://youtu.be/AF4IzD6aVU4?si=tRRvzCrt__I_lK1t"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 24,
+    "fields": {
+      "title": "뷰티 인사이드",
+      "released": 2015,
+      "category": "로맨스/코미디",
+      "running_time": "2시간 7분",
+      "poster_url": "https://i.namu.wiki/i/WhQmy-eg1ZU0RXB6v_8eyturnhRc09tZpZTBxVXCvBE46VS-q_5t7w0yK7hFfBgxNZT9R2Hp42SuEkpYe-Y3rA.webp",
+      "detail": "신비한 비밀을 간직한 채 살아오던 한 남자는 하루하루 다양하게 변하는 자신의 모습을 영상에 찍어 간직한다. 언제 어디서 자신이 어떤 모습으로 깨어날지 모르는 남자는 어느 날 자신의 마음속에 간직하고 싶은 여자를 만나고 이내 가장 완벽한 모습으로 그녀에게 고백하기로 한다.",
+      "score": 8.26,
+      "trailer_url": "https://youtu.be/LjhFbrF1oys?si=OSjhdEnUfdnLjj38"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 25,
+    "fields": {
+      "title": "건축학개론",
+      "released": 2012,
+      "category": "로맨스/드라마",
+      "running_time": "1시간 58분",
+      "poster_url": "https://i.namu.wiki/i/otf8tOY_lb8MyTzXHsaEVM-NodcB5-JYvwFvZTfu3sdmAd4LkLBDQqiNdTKPMRrxy2n7QwvnDt5j7RqPtLHElw.webp",
+      "detail": "건축학과인 20살 승민은 건축학개론 강의에서 만난 음대생 서연에게 반해 버린다. 서연과 함께 숙제를 하며 친해지게 된 승민은 자신의 마음을 고백하지 못하고 오해로 인해 그녀와 멀어지게 된다.",
+      "score": 8.69,
+      "trailer_url": "https://youtu.be/0o-qaLxQz0c?si=2WQilk6IwMPxi99D"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 26,
+    "fields": {
+      "title": "접속",
+      "released": 1997,
+      "category": "로맨스/드라마",
+      "running_time": "1시간 45분",
+      "poster_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQYYHTMrswcSzF7siPEiBMVJPFTy-Xf_xYWbMC2_I4RmBxCMS--7NCSfhX15efObeclAuVvIUyAiKyuL0XvnklExmNstRo2e9a-id_c4M",
+      "detail": "어느 날 라디오 DJ 동현은 벨벳 언더그라운드 음반이 담긴 익명의 패키지를 받는다. 그는 이 음반을 옛 애인이 보냈으면 하는 바람에 음반의 곡 중 연한 파란 눈동자를 연주하기로 한다.",
+      "score": 8.68,
+      "trailer_url": "https://youtu.be/2mNjy-0SuMw?si=9vG1eI60A5sjdK4D"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 27,
+    "fields": {
+      "title": "미 비포 유",
+      "released": 2016,
+      "category": "로맨스/드라마",
+      "running_time": "1시간 50분",
+      "poster_url": "https://i.namu.wiki/i/2NlZ4Tw9jpmRccxDUhzVkdRt7KBNNvysgjury5f_ttLR7uxx54fkZWjUgB3zR89DMOmEukRb25aUhqnW0LTuGw.webp",
+      "detail": "루이자는 한때 성공한 젊은 사업가였던 전신마비 환자 윌의 새로운 간병인으로 온다. 윌은 루이자의 유치한 면이 마음에 들지 않아서 일부러 퉁명스럽게 굴고, 루이자는 그런 그가 얄밉기만 하다.",
+      "score": 8.78,
+      "trailer_url": "https://youtu.be/NhHbprenFdw?si=RvH-gaubuQdehUzf"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 28,
+    "fields": {
+      "title": "어바웃 타임",
+      "released": 2013,
+      "category": "로맨스/코미디",
+      "running_time": "2시간 3분",
+      "poster_url": "https://i.namu.wiki/i/fBt_IWG9AADxLWh-QjXKZR_PsD-IpY1EhD50Sg4UhbkPTVcMUaIPz-soaZlh1BUyYgavsEHqqmfZIV7-unONBw.webp",
+      "detail": "평범한 소년 팀은 성인이 되던 날, 아버지로부터 가문의 남자들은 시간을 되돌릴 수 있는 능력을 가지고 태어난다는 말을 듣게 된다.",
+      "score": 9.26,
+      "trailer_url": "https://youtu.be/n8GcBstSFD8?si=0pTry60XhY4eHVZd"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 29,
+    "fields": {
+      "title": "그 시절, 우리가 좋아했던 소녀",
+      "released": 2011,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 49분",
+      "poster_url": "https://i.namu.wiki/i/MFTUUuJU3eQiSlPY6OBKUqduIDa51-IhKb88qvl7mLV5maFshb_grmHn4bmbEQyppff-YmZRscwXQR3cSKIUXA.webp",
+      "detail": "사고 안 치는 날이 한 번도 없는 커징텅과 친구들은 착한 모범생 션자이를 짝사랑하고 있다. 노력하는 이들의 관심에도 눈길 한 번 안 주던 션자이는 커징텅의 과외를 맡게 되면서 커징텅과 점점 가까워지기 시작한다.",
+      "score": 8.79,
+      "trailer_url": "https://youtu.be/UoVceraQ-zI?si=v3smxQ9ch7XqYY5v"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 30,
+    "fields": {
+      "title": "트와일라잇",
+      "released": 2008,
+      "category": "로맨스/판타지",
+      "running_time": "2시간 1분",
+      "poster_url": "https://i.namu.wiki/i/vThUgpI8UIaXgoqbT1EBn9qLviJ5m3pMqNgPW3D9SUbRZxrnh9eplKBDpuqYMWetlGXKuppLMfh2yD9SS5EeEw.webp",
+      "detail": "금기를 거스르고 사랑에 빠져 버린 10대 인간 소녀와 뱀파이어에게 거대한 위험이 휘몰아친다. 깊어지는 사랑만큼 짙어지는 가혹한 운명.",
+      "score": 9.61,
+      "trailer_url": "https://youtu.be/e8lynTVeKYU?si=boFsQsC_J-tvzKye"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 31,
+    "fields": {
+      "title": "말할 수 없는 비밀",
+      "released": 2007,
+      "category": "로맨스/뮤지컬",
+      "running_time": "1시간 41분",
+      "poster_url": "https://i.namu.wiki/i/LoosgWh4XouN2o8ORURMOT9msY0Is2UFU6zVCTuk-9Xr1ooHx9Qe_MTMhrCaPSeFS1XUqLGJnTfWyPLM7HSyqA.webp",
+      "detail": "피아노에 천부적인 재능을 가진 상륜은 새로 전학 간 예술학교를 둘러보던 중, 오래된 음악실에서 피아노를 아름답게 연주하고 있는 샤오위를 발견한다. 서로에게 점점 가까워지며 사랑의 감정이 싹트고, 상륜은 샤오위에 대해 알고 싶어 하지만 샤오위는 자신의 정체를 숨긴다.",
+      "score": 9.27,
+      "trailer_url": "https://youtu.be/Ceoe2wf-bbo?si=3wW3Pn9aBGH4oSS2"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 32,
+    "fields": {
+      "title": "비포 선라이즈",
+      "released": 1995,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 40분",
+      "poster_url": "https://i.namu.wiki/i/hr1BdoU49R9zU4E1mwLKw8p_e9EzCBXB_ectbta0jiUva4v9hpbdxWpTe-PMd7SZDqzEXX0XUb2RXJZp1uC8oA.webp",
+      "detail": "기차 안에서 우연히 만난 셀린과 제시는 마치 운명인 듯 서로에게 이끌린다. 서로 목적지가 다르지만, 제시의 제안으로 셀린은 그와 함께 하루 동안 비엔나를 여행하게 된다.",
+      "score": 9.01,
+      "trailer_url": "https://youtu.be/urrpMc3UrUM?si=sdbpxEWGjVkA7PIQ"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 33,
+    "fields": {
+      "title": "어바웃 어 보이",
+      "released": 2002,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 40분",
+      "poster_url": "https://i.namu.wiki/i/IFgHo3VJxhX8hM81DAgcymfeB4UK7gHgh8LT_CVgqwtejtr7QrfcDTmkH5aS4z6FJM3RKBTLXysEnwGJtZly8w.webp",
+      "detail": "오로지 여성을 꼬실 생각으로 혼자 아이를 키우는 부모 모임에 참석한 윌은 그곳에서 우연히 알게 된 12살 왕따 소년 마커스에 대해 어느 날부터 묘한 책임감을 느끼기 시작한다.",
+      "score": 8.79,
+      "trailer_url": "https://youtu.be/-apwoGTpi7E?si=jX2uxvEct-U8_6c8"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 34,
+    "fields": {
+      "title": "비긴 어게인",
+      "released": 2013,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 41분",
+      "poster_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRI61W4SHHwdvUa9gntXZqGmNHLsZZ1pkFiwloo-MUOfTJ-bwfWzQf4hit6PjTJY-h89doup9wUY1j3nZ7WGb-VZmqjq9Oon7WJgxB14w",
+      "detail": "싱어송라이터 그레타는 애인 데이브와 함께 뉴욕으로 이사하지만, 유명세를 탄 데이브는 변하고 만다. 한편, 전직 음반 프로듀서인 댄은 우연히 뮤직바에서 그레타의 자작곡을 듣고 감명을 받아 음반 제작을 제안한다.",
+      "score": 9.12,
+      "trailer_url": "https://youtu.be/98wK1kFDEAo?si=qsFHGg2aSWmWcKkP"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 35,
+    "fields": {
+      "title": "호우시절",
+      "released": 2009,
+      "category": "로맨스/드라마",
+      "running_time": "1시간 40분",
+      "poster_url": "https://i.namu.wiki/i/Yw6Lbq5OzYhkZMmq8rMeybfa-ds6Q69PDvj2186CFvrHj2PvfVOoMQYLW8XxKsPXqtSOVxSSn3ucf55TrHFKzgotd-H2UyRJ_3wKaK2xIo2vUctAhet98diy5GN3ppShgQzSfrtCXNGpV_1J7fkwCg.webp",
+      "detail": "박동하는 건설중장비회사의 팀장이다. 중국 출장 첫날, 여행 가이드로 일하고 있는 유학 시절 친구 메이와 우연히 재회한다. 둘은 언제 떨어져 있었냐는 듯 그 시절 그때로 돌아간다. 분명 키스도 했었고, 자전거도 가르쳐 줬었는데 메이는 그 어느 것도 할 줄 모른다고 한다.",
+      "score": 7.47,
+      "trailer_url": "https://youtu.be/oCZCC8SKHx0?si=HaYbyuueqYC3tEBN"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 36,
+    "fields": {
+      "title": "내 머리 속의 지우개",
+      "released": 2004,
+      "category": "로맨스/드라마",
+      "running_time": "1시간 57분",
+      "poster_url": "https://i.namu.wiki/i/5z-n36I28ieRa0O6-GpgzkATYSF80CufywXozlR9X4HGExJh4ND0GquxSwIU1WxDHSYE3PebOAD4W1VcaICUuQ.webp",
+      "detail": "건망증이 심한 수진은 어느 날 자신의 건망증으로 인해 철수와 운명적으로 얽히게 된다. 사랑을 키워 가던 둘은 수진의 적극적인 청혼으로 결혼한다. 수진은 건망증으로 인해 자주 덤벙거리지만 둘은 행복한 나날을 보낸다. 그런데 행복도 잠시, 수진의 뇌가 죽어 간다는 사실을 알게 된다.",
+      "score": 9.09,
+      "trailer_url": "https://youtu.be/ndtX6dtsQ0A?si=TwWPZfuxQg_gJIXs"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 37,
+    "fields": {
+      "title": "노팅힐",
+      "released": 1999,
+      "category": "로맨스/코미디",
+      "running_time": "2시간 4분",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d8/%EB%85%B8%ED%8C%85%ED%9E%90_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "detail": "세계적인 스타 애나 스콧은 런던 방문 중 우연히 노팅힐의 한 여행 전문 서점에 들어간다. 그곳을 운영하는 남자 윌리엄 태커를 만나고, 애나와 윌리엄은 사랑에 빠지지만 너무나도 다른 두 사람의 사랑은 순탄치 않다.",
+      "score": 9.5,
+      "trailer_url": "https://youtu.be/gPhXjrDANGk?si=GndHK1WEMfLkpQ0j"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 38,
+    "fields": {
+      "title": "피아노 치는 대통령",
+      "released": 2002,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 35분",
+      "poster_url": "https://file.koreafilm.or.kr/video/00/00/85/TKV001248.jpg",
+      "detail": "일반 시민의 삶을 관찰하기 위해 몰래 거리를 돌아다닐 만큼 국민을 생각하는 민욱은 남녀노소의 지지를 받는 대한민국의 대통령이다. 어느 날 그는 학교에서 말썽을 피운 외동딸 영희 때문에 학교로 불려 가고, 그곳에서 당돌한 영희의 담임 선생님 은수를 만난다.",
+      "score": 5.68,
+      "trailer_url": "https://youtu.be/Gdef1UfnxqQ?si=o3bjyHYLYJnfa1UR"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 39,
+    "fields": {
+      "title": "킹스맨: 골든 서클",
+      "released": 2017,
+      "category": "액션/코미디",
+      "running_time": "2시간 21분",
+      "poster_url": "https://i.namu.wiki/i/hQKKOgEdIhQRXS5g9ZKyz2MStTupRHR9cQFLYbnGIDMztjvCPGfN9jcwRujvFws5ZeDafBIwTB-ntvwZXVF0ZQ.webp",
+      "detail": "해킹에 의해 킹스맨의 정보가 새어 나가고 범죄 조직 골든 서클이 킹스맨 본부를 파괴한다. 사태를 수습하던 에그시는 킹스맨의 형제 조직인 스테이츠맨의 존재를 알게 되고, 죽은 줄 알았던 해리와 재회한다.",
+      "score": 8.61,
+      "trailer_url": "https://youtu.be/X7Np7Gmzo_g?si=4kmu_JDGWxQXa-Tp"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 40,
+    "fields": {
+      "title": "연애의 온도",
+      "released": 2013,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 52분",
+      "poster_url": "https://i.namu.wiki/i/gAYnszCzLmQREGYaSOFiHfWONCIPFtmTqJx_Zr-_mvNU33bW4XiV1uOkVx_VsWDVlql18n0piUVvAdBuyAHJ_D32vjMB_iAbatVMVzf0XBZXH8omGIBQU_6L6VAL6Quk53OXXFHaYiPrk8zwoFL6Qg.webp",
+      "detail": "같은 은행에서 3년간 뜨거운 비밀 연애를 해온 동희와 영은 이별 후 다른 사람을 만나고 크고 작은 싸움을 계속하면서도, 서로를 잊지 못한다.",
+      "score": 7.48,
+      "trailer_url": "https://youtu.be/8ABOCiwhJI4?si=oljBxH-vG0BnrPpA"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 41,
+    "fields": {
+      "title": "과속 스캔들",
+      "released": 2008,
+      "category": "어린이/코미디",
+      "running_time": "1시간 48분",
+      "poster_url": "https://i.namu.wiki/i/uPfaF_PUYk6Dxi9lMcky_vVp5ythpdM4Ac6FqTaKb1ajd-NM_wkcrKKjLK6hLJbAtGG6f7ueghXQM6dSSLYTjQ.webp",
+      "detail": "한때 최정상 아이돌이었던 남현수는 지금도 인기 라디오 DJ로 잘나가는 연예인이다. 어느 날, 매일 라디오로 사연을 보내오던 애청자 황정남이 갑자기 방송국에 찾아와서 자신이 현수가 과속해서 낳은 딸이라고 주장한다.",
+      "score": 9.2,
+      "trailer_url": "https://youtu.be/GZaeK8arEis?si=YP5MicFfjyzt-xFJ"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 42,
+    "fields": {
+      "title": "너의 결혼식",
+      "released": 2018,
+      "category": "로맨스/드라마",
+      "running_time": "1시간 50분",
+      "poster_url": "https://i.namu.wiki/i/DB1qFOYdhbVSHnFFPDPBnQR5fxuQjyryFmQkLYXvHs58Frbg7iFUmNfcpwd7j10nKhFoTbzOyzLEI10f3zaMcw.webp",
+      "detail": "우연은 고등학교 3학년 여름, 전학을 온 승희에게 반해 쫓아 다니고, 둘 사이가 이뤄지나 싶을 무렵 승희는 잘 지내라는 안부 인사만을 남기고 사라진다. 승희를 향한 미련을 버리지 못한 우연은 끈질긴 조사 끝에 승희와 같은 대학에 합격한다.",
+      "score": 9.07,
+      "trailer_url": "https://youtu.be/HuQ6YFDYY0s?si=YPJBRus0hJj7zeQR"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 43,
+    "fields": {
+      "title": "클루리스",
+      "released": 1995,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 37분",
+      "poster_url": "https://play-lh.googleusercontent.com/NN5UCd2hP9lj5hOPVVHhGPxlmWI_jxPHD0DoK3DkfwOsNTS0uiDRi2lTucXvOt13w5E",
+      "detail": "베버리 힐스에 사는 고등학생 셰어는 옷과 쇼핑을 좋아하는 청소년으로, 원하는 것은 대부분 자신의 손에 넣으며 물질적으로 부족함 없이 산다. 그러던 어느 날, 셰어는 전학생 타이를 만나고 일련의 사건들을 겪으며 그녀는 자신의 삶을 돌아보기 시작한다.",
+      "score": 8.15,
+      "trailer_url": "https://youtu.be/KeGqX4GVBZE?si=_AkejQ2qylN7szai"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 44,
+    "fields": {
+      "title": "러브 액츄얼리",
+      "released": 2003,
+      "category": "로맨스/코미디",
+      "running_time": "2시간 9분",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/ko/e/e0/%EB%9F%AC%EB%B8%8C%EC%95%A1%EC%B8%84%EC%96%BC%EB%A6%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "detail": "다가오는 크리스마스, 서로 다른 상황에 처한 8쌍의 커플들은 새로운 관계의 변화를 경험하게 된다. 총리, 작가, 록스타, 대역 배우 등 다양한 삶을 살아가는 사람들의 사랑 이야기가 런던에서 펼쳐진다.",
+      "score": 8.17,
+      "trailer_url": "https://youtu.be/K-mdSC6jujU?si=8XIvjEmcJxBH2eSf"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 45,
+    "fields": {
+      "title": "우리들의 행복한 시간",
+      "released": 2006,
+      "category": "로맨스/드라마",
+      "running_time": "2시간",
+      "poster_url": "https://i.namu.wiki/i/D5mW4nQDwbdnToqPHkMUj-a3GV-VjOnTREUVOzZxUpMfx7xwFsNrVSKlC4JwMhELWnryzNKKT_zN115qTn7d8g.webp",
+      "detail": "유정은 세 번째 자살 시도 이후 고모 모니카 수녀와 함께 봉사활동으로 구치소로 가게 된다. 그곳에서 모니카 수녀와 자신을 매몰차게 밀어내는 사형수 정윤수를 만나게 되고, 정윤수는 유정이 어릴 적 애국가를 불렀던 가수였음을 알게 된다.",
+      "score": 8.7,
+      "trailer_url": "https://youtu.be/ttO9Ib08U3s?si=T6-j91fqJ4YdAEss"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 46,
+    "fields": {
+      "title": "초속 5센티미터",
+      "released": 2007,
+      "category": "로맨스/드라마",
+      "running_time": "1시간 3분",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/ko/0/03/%EC%B4%88%EC%86%8D_5%EC%84%BC%ED%8B%B0%EB%AF%B8%ED%84%B0.jpg",
+      "detail": "함께 초등학교에 다니며 각별한 사이였던 타카키와 아카리는 졸업 이후 멀리 떨어져 살게 된다. 둘은 서로를 그리워하다가 몇 개월 뒤에 다시 연락이 닿고, 눈이 쏟아지던 날 밤에 타카키는 아카리를 만나러 떠난다.",
+      "score": 8.64,
+      "trailer_url": "https://youtu.be/QQwz_GioUKY?si=HauKIA6ehUN4GRhB"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 47,
+    "fields": {
+      "title": "조제, 호랑이 그리고 물고기들",
+      "released": 2003,
+      "category": "로맨스/드라마",
+      "running_time": "1시간 56분",
+      "poster_url": "https://i.namu.wiki/i/RLUlBS2eHEQg3iUKkpDj1N-4WBcnSW9HKOvFF6qUZ5OclbdG7UDmuS1HZu6lEPDaUMCIGY4qkapZ8V8k3iCapw.webp",
+      "detail": "평범한 대학생이자 열렬한 다이버 츠네오는 휠체어에 묶인 젊은 여성의 관리인이 되어 꿈을 위해 돈을 모으기 시작한다. 자신이 좋아하는 책 캐릭터를 따라 자신을 호세라고 부르는 젊은 여성은 음침하고 까다롭지만, 츠네오는 호세가 외부 세계와 소통하도록 돕는다.",
+      "score": 9.0,
+      "trailer_url": "https://youtu.be/zXfWp9xbH_o?si=HuvOzEAetPSMWzCl"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 48,
+    "fields": {
+      "title": "잉글리쉬 페이션트",
+      "released": 1997,
+      "category": "로맨스/전쟁",
+      "running_time": "2시간 40분",
+      "poster_url": "https://i.namu.wiki/i/6nCb_uvpMZWb1CixBreAXj-3MucO-TqvyG-t4iADvAOSAPt2Xs8TXevx_QiezxW4t0MqK1nBwp4Q6l4cOF9fBA.webp",
+      "detail": "제2치 세계 대전 중 영국의 동맹국 간호사가 수수께끼의 이방인 환자의 위험한 과거를 모른 채 그를 돌본다. 하지만 그의 정체에 대한 수수께끼가 풀리면서 믿기 힘든 열정, 음모와 모험의 이야기가 펼쳐진다.",
+      "score": 9.23,
+      "trailer_url": "https://youtu.be/8l9RreLMWBs?si=zwx0syUvsU6RABUN"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 49,
+    "fields": {
+      "title": "원스",
+      "released": 2007,
+      "category": "로맨스/뮤지컬",
+      "running_time": "1시간 25분",
+      "poster_url": "https://image.fmkorea.com/files/attach/new3/20230430/4330174/4286353933/5725206966/ceb972e1dadc93e823741ef5d305dff6.jpg",
+      "detail": "앞으로 자신의 인생에 더는 사랑이 찾아오지 않을 거라고 믿었던 그와 삶을 위해 꿈을 내려놓을 수밖에 없었던 그녀는 어둠이 내려앉은 더블린의 거리 위에서 운명처럼 만난다. 그리고 그 둘은 음악을 통해 서로 이해하면서 사랑의 감정을 키워 나간다.",
+      "score": 8.99,
+      "trailer_url": "https://youtu.be/G4ntaZDAOgE?si=rqprAKfe1PFi6PDM"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 50,
+    "fields": {
+      "title": "콜드 마운틴",
+      "released": 2003,
+      "category": "로맨스/전쟁",
+      "running_time": "2시간 34분",
+      "poster_url": "https://cdn.polinews.co.kr/news/photo/202309/619968_421448_1011.jpeg",
+      "detail": "아이다와 인만은 서로에게 끌리지만 곧 인만은 전쟁터로 떠난다. 부상을 당해 입원해 있는 인만은 알 수 없는 이유로 탈영을 감행한다. 한편, 인만의 생사도 모른 채 하염없이 시간이 흐르기만을 고대하는 아이다는 홀로 위협과 유혹 앞에 고군분투한다.",
+      "score": 9.05,
+      "trailer_url": "https://youtu.be/kfxXPhKuMUA?si=jFkW-QoR8HtuuiMw"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 51,
+    "fields": {
+      "title": "브리짓 존스의 일기",
+      "released": 2001,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 37분",
+      "poster_url": "https://i.namu.wiki/i/KlzY57JGlcygLRKExsdMaRI74uJGosFI6Rjr3B0S3u-JFAfvtdIM7BZ7NOW3ibkyvALAtAH0ypMcuR7xP4FMMQ.webp",
+      "detail": "서른 두 살 브리짓은 엄마의 권유로 참석한 파티장에서 잘나가는 인권 변호사 마크 다아시를 소개받는다. 거만한 마크에게 마음이 가지 않는 그녀는 안 그래도 별로인 그가 자신을 골초에 알콜 중독자라고 흉보는 소리를 듣고 심한 모욕감을 느낀다.",
+      "score": 8.68,
+      "trailer_url": "https://youtu.be/4eWxQj95y3k?si=8USmnYy6VK5LQ_cg"
+    }
+  }
+  ,
+  {
+    "model": "movies.movie",
+    "pk": 52,
+    "fields": {
+      "title": "세렌디피티",
+      "released": 2002,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 31분",
+      "poster_url": "https://cdn.lecturernews.com/news/photo/202108/73620_270863_1126.jpg",
+      "detail": "조나단과 사라는 운명과도 같았던 서로와의 만남을 잊지 못하고, 세월은 흘러 각자 결혼을 앞두고 있다. 7년 후 다시 찾아온 크리스마스 이브 날 둘의 발걸음이 동시에 뉴욕으로 향한다.",
+      "score": 7.96,
+      "trailer_url": "https://youtu.be/xgwn8UqU2aY?si=g-eRSOG_k-KEPkAx"
+    }
+  }
+  ,
+  {
+    "model": "movies.movie",
+    "pk": 53,
+    "fields": {
+      "title": "레터스 투 줄리엣",
+      "released": 2010,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 45분",
+      "poster_url": "https://www.chosun.com/resizer/v2/HESYK55CH7KHXSK27UGSETWS2Y.jpg?auth=5ffe58747d13d7a9d3dd3b6eb4e948522c70bb2b12936b708fe7df5022c69e43&width=464",
+      "detail": "작가 지망생 소피는 우연히 줄리엣의 발코니에서 50년 된 러브레터를 발견하고 편지에 답장을 보낸다. 며칠 후 그녀의 편지를 받고 편지 속 주인공 클레어와 그녀의 손자 찰리가 소피를 찾아온다.",
+      "score": 8.67,
+      "trailer_url": "https://youtu.be/jgp8Uoyb4hM?si=gWGZ473ppXGZpjh9"
+    }
+  }
+  ,
+  {
+    "model": "movies.movie",
+    "pk": 54,
+    "fields": {
+      "title": "프리티 우먼",
+      "released": 1990,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 59분",
+      "poster_url": "https://t1.daumcdn.net/news/202105/22/cineplay/20210522161142419waxt.jpg",
+      "detail": "어려운 회사를 인수해서 되파는 무자비한 기업 거물 애드워드가 할리우드 시내에서 길을 잃는다. 그런 그의 앞에 아름다운 콜걸 비비안이 나타나 그를 돕고, 곧 에드워드는 고급가의 베벌리 힐즈에 도착한다. 에드워드는 비비안에게 일주일 동안 그의 동반자가 되어 달라고 부탁한다.",
+      "score": 8.78,
+      "trailer_url": "https://youtu.be/Wzii8IuL8lk?si=qQxAvoMBjlfvvflG"
+    }
+  }
+  ,
+  {
+    "model": "movies.movie",
+    "pk": 55,
+    "fields": {
+      "title": "미드나잇 인 파리",
+      "released": 2011,
+      "category": "로맨스/코미디",
+      "running_time": "1시간 34분",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/ko/2/2c/%EB%AF%B8%EB%93%9C%EB%82%98%EC%9E%87%EC%9D%B8%ED%8C%8C%EB%A6%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "detail": "약혼자와 서로 맞지 않는 취향 때문에 심란하던 길은 파리의 밤거리를 걷다가 어딘가에서 나타난 묘한 차에 탄다. 도착한 곳은 1920년대, 예술이 꽃피는 파리다. 그는 과거의 예술가들을 만나며 환상적인 저녁을 보내고, 매일 같이 좋아하는 예술가들을 만나러 시간여행을 시작한다.",
+      "score": 9.00,
+      "trailer_url": "https://youtu.be/Mj4I668rLTQ?si=Cg5AC6CVZ-HYjCQb"
+    }
+  }
+]

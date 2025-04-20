@@ -1,0 +1,556 @@
+[
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 1,
+      "name": "히노 마오리",
+      "mbti": "ISFJ",
+      "detail": "선행성 기억상실증에 걸려, 잠이 든 뒤에 깨어나면 자기 전의 모든 기억이 사라져 버리는 소녀.",
+      "img": "https://static1.personality-database.com/profile_images/ad4ea14573e54a518ef84934ab8a20e9.png"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 2,
+      "name": "니카 도버",
+      "mbti": "INFJ",
+      "detail": "교통사고로 부모를 잃고 그레이브 고아원에서 자란 소녀. 17세가 되어 입양될 기회를 얻고 새로운 가정에서 리젤과 함께 생활하게 된다.",
+      "img": "https://static1.personality-database.com/profile_images/1ee6a313d2624440a7a5f79d91b65c58.png"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 3,
+      "name": "몰리 프로스트",
+      "mbti": "ENTJ",
+      "detail": "작은 케이터링 업체를 운영하는 여성. 지역 재단의 크리스마스 축제 만찬을 준비하게 된다.",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hallmark-christmas-movies-picture-a-perfect-christmas-1567616992.jpg?crop=0.671xw:1.00xh;0.297xw,0&resize=480:*"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 4,
+      "name": "키사라기 마야",
+      "mbti": "ENFP",
+      "detail": "고등학교 2학년 학생. 처음으로 남학생에게 고백하지만 거절당하고 실망에 빠진다.",
+      "img": "https://i.namu.wiki/i/-0d2d6_MPGpeZuAMcAoOICOoojGNRHxiZUV8DmzqRyMzm-O2uvGXRMKZ0wab0euxVmZL3gXPAxiOxVZ7_LUt_w.webp"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 5,
+      "name": "김태인",
+      "mbti": "ISFP",
+      "detail": "인디밴드 연신굽신의 보컬 멤버. 거제로 내려가서 곡 작업을 하느라 도하와 롱디를 하게 되었다.",
+      "img": "https://i.namu.wiki/i/NDJf4Ou_SP_VyBDOO-iM3GolN9SYGqMnBmxcSQOeUKF3egK7kiN0HIGrh2d0dybOzQdzOJLHSiu_LfbHF4lXmSZjq89PtXkl2UUpXnNt68HRqvus4Ud-CzSCWsuquxT1idwVZ_Ppi5nvqbF9i5uaeQ.webp"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 6,
+      "name": "수아",
+      "mbti": "INFJ",
+      "detail": "비 오는 날, 기억을 잃은 상태로 돌아와 가족과 함께 시간을 보내며 점차 기억을 되찾아가는 우진의 아내. 밝고 따뜻하며, 가족을 깊이 사랑한다.",
+      "img": "https://i.namu.wiki/i/c4BAj_VWGT9uHtIynJpVYH-wDWu3-Ue2XqjwgUnXg0XFK3d25KqU8KrXNd_UDjuobFLl7QZwYQfl2A9LNrLJvw.webp"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 7,
+      "name": "조세핀 조 마치",
+      "mbti": "ENFP",
+      "detail": "네 자매 중 둘째로, 독립적이고 작가가 되기를 꿈꾸는 여성이며 가족과 자신의 꿈 사이에서 갈등한다.",
+      "img": "https://cdn.lecturernews.com/news/photo/202203/92061_309294_945.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 8,
+      "name": "로즈 드윗 부케이터",
+      "mbti": "ENFJ",
+      "detail": "상류층의 젊은 여성이며, 타이타닉호에서 잭과의 만남을 통해 삶과 사랑의 의미를 깨닫는다.",
+      "img": "https://i.namu.wiki/i/x_tAb2lwLRb78Tzk_S1SoQZjETfxJGdWuhXdXnzcvbzXd_jVJCx-PXlUpJCS5ulq_WvjYfXHuwuaLZ1dho2-eA.webp"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 9,
+      "name": "벨",
+      "mbti": "INFP",
+      "detail": "책을 사랑하는 평범한 마을 소녀로, 야수의 성에서 진정한 사랑의 가치를 발견한다.",
+      "img": "https://i.ytimg.com/vi/PQKSJeSRv2w/maxresdefault.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 10,
+      "name": "애비 리치터",
+      "mbti": "INFP",
+      "detail": "성공적인 TV 프로듀서로, 연애 전문가와의 협업을 통해 사랑에 대해 새로운 관점을 배우게 된다.",
+      "img": "https://lh5.googleusercontent.com/proxy/9XDEQrOmbxTU42zDH3liYQ0hrCEUzrnnskQH_UyxjARNKjm0iK10TM8Qo0n5-jZdU-uWYXNiazgxCplP3MRpbti-xnPecwXjFd0T_QEJYSQV_i534Aw"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 11,
+      "name": "미애",
+      "mbti": "ESTJ",
+      "detail": "김현의 지인으로, 서로의 삶에 예상치 못한 영향을 주며 이야기를 이끌어 가는 중요한 인물.",
+      "img": "https://image.yes24.com/images/chyes24/froala/0/46386/46685.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 12,
+      "name": "자스민",
+      "mbti": "ESFJ",
+      "detail": "왕궁에서 벗어나 자유를 갈망하는 공주로, 알라딘과 함께 세상을 탐험하며 자신의 진정한 목소리를 찾는다.",
+      "img": "https://i.ytimg.com/vi/x7MmbZSW158/maxresdefault.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 13,
+      "name": "제니 커란",
+      "mbti": "ISFJ",
+      "detail": "포레스트의 평생 친구이자 사랑으로, 복잡한 삶을 살아가며 자유와 안정 사이에서 갈등한다.",
+      "img": "https://i.namu.wiki/i/Jj6HJFLAZiP89HSJmd_YWqSkQcl3UlZL1aaD8kgit2VLmgwtNYCUE6btKYJPGQ3geDHKcK3uwsZWohyWS8P7KA.webp"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 14,
+      "name": "미아 돌란",
+      "mbti": "ENFJ",
+      "detail": "배우의 꿈을 꾸는 바리스타로, 세바스찬과의 사랑과 꿈 사이에서 고민하며 성장한다.",
+      "img": "https://img6.yna.co.kr/etc/inner/KR/2016/12/01/AKR20161201047500005_04_i_P2.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 15,
+      "name": "야마우치 사쿠라",
+      "mbti": "ENFJ",
+      "detail": "췌장 질환을 앓는 소녀로, 짧은 삶 속에서 주인공에게 특별한 인연과 교훈을 남긴다.",
+      "img": "https://kukka-2-media-123.s3.amazonaws.com/media/contents/event_template/137b9a85-a9c8-4f7c-98a7-49b51128788b.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 16,
+      "name": "순이",
+      "mbti": "INTP",
+      "detail": "낯선 환경에서 늑대 같은 소년 철수를 만나며 그의 마음을 열고 특별한 유대를 쌓는 소녀.",
+      "img": "https://ojsfile.ohmynews.com/STD_IMG_FILE/2012/1107/IE001512520_STD.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 17,
+      "name": "주디 홉스",
+      "mbti": "ENFJ",
+      "detail": "최초의 토끼 경찰관으로, 편견에 맞서며 진실을 밝혀내는 데 헌신한다.",
+      "img": "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/aRXQ/image/weGMsHTG3KxhMHCD2xgKLaxbkGI.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 18,
+      "name": "엘 에반스",
+      "mbti": "ESTJ",
+      "detail": "고등학생으로, 절친의 형과의 연애를 통해 우정과 사랑 사이에서 고민한다.",
+      "img": "https://blog.kakaocdn.net/dn/dtwKSz/btqHA32Q9Sa/L3sj6K4p6JTQKJUVaNyTmK/img.png"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 19,
+      "name": "줄리 베이커",
+      "mbti": "ENFP",
+      "detail": "독립적이고 자연을 사랑하는 소녀로, 이웃 소년 브라이스와의 관계에서 성장을 경험한다.",
+      "img": "https://file.instiz.net/data/file/20140713/f/a/4/fa4094e208c090fd2b75bfefaa050053.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 20,
+      "name": "썸머",
+      "mbti": "ISTP",
+      "detail": "현실적이고 자유로운 사고를 가진 여성으로, 연애를 운명이나 사랑의 영원성에 얽매이지 않는 스타일이다.",
+      "img": "https://cdn.dealbada.com/data/editor/1606/d65f8b10e177ba4fc4baf329cdeb1433_1467273626_1156.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 21,
+      "name": "클레멘타인",
+      "mbti": "INFP",
+      "detail": "즉흥적이고 독창적인 성격을 가진 여성으로, 사랑에 있어서도 규칙과 틀을 거부하는 자유로운 영혼이다.",
+      "img": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbkCvHw%2FbtsIQ2g0v4a%2FehrxKGKJkcQzukNqDUzT0k%2Fimg.png"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 22,
+      "name": "지혜",
+      "mbti": "INFP",
+      "detail": "순수하고 내성적인 성격을 가진 여성으로, 부모 세대의 사랑 이야기를 통해 자신도 진정한 사랑의 의미를 깨달아 간다.",
+      "img": "https://www.artinsight.co.kr/data/tmp/2109/20210921145739_aiuvohgp.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 23,
+      "name": "앨리",
+      "mbti": "ISFP",
+      "detail": "열정적이고 예술적 감성을 가진 여성으로, 사회적 기대와 자신의 진정한 사랑 사이에서 갈등하는 인물이다.",
+      "img": "https://t4.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/1oCI/image/yHAwvep4ljqUNyOGleVNKSGWwII.jpeg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 24,
+      "name": "이수",
+      "mbti": "ISFP",
+      "detail": "상대방의 외형이 아닌 내면을 사랑하는 진정한 사랑의 모습을 보여주는 따뜻하고 섬세한 여성이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAyMTAzMjNfMjU1/MDAxNjE2NDMyNzQwMTA3.v2AAiAElFPqcDlOhLkGMOryj8C91yt-gz2f7IvS14ssg.GoQgPjIycMMlzR-R8gmSCi8i44sFfHO88bZuTQJ-3tkg.JPEG.actudio1221/movie_image_(5).jpg?type=w800"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 25,
+      "name": "서연",
+      "mbti": "INFJ",
+      "detail": "첫사랑의 설렘과 아픔을 간직한 여성으로, 오랜 시간이 지나도 그 기억을 소중히 여기는 감성적인 인물이다.",
+      "img": "https://i.namu.wiki/i/RFo3Vpb0I1TfpccQqO1nnxHBzS_QxsuGv0u4hhIcPaoZHTHfMQ4fAkrg-ZGpVPhE1BzhZOkhz4zbwtLIeJ5lIA.webp"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 26,
+      "name": "수현",
+      "mbti": "INFJ",
+      "detail": "외로움을 품고 살아가던 중, 우연히 알게 된 낯선 사람과의 소통을 통해 새로운 감정을 발견하게 되는 여성이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAyMzA2MTNfMjMx/MDAxNjg2NjY2MTQ5OTUx.jtXL0OVlpJ-bIMcRjftiCLh-XAIkeSZI_Aae1nsmN2og.mbjxFopNVURugwoIpEVsfi8MaaOYycUa6n7LgYqMYkUg.PNG.hrikim/20230613_231905.png?type=w800"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 27,
+      "name": "루이자",
+      "mbti": "ENFP",
+      "detail": "유쾌하고 긍정적인 성격을 가진 여성으로, 어려운 상황 속에서도 사람들에게 웃음과 희망을 전하려 노력하는 인물이다.",
+      "img": "https://image.cine21.com/resize/cine21/still/2019/0513/16_10_12__5cd918549e931[X230,230].jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 28,
+      "name": "메리",
+      "mbti": "ENFP",
+      "detail": "사랑스럽고 소박한 성격을 가진 여성으로, 가족과 사랑을 통해 행복을 느끼는 인물이다.",
+      "img": "https://imagedelivery.net/hftuYAvwaYr78lZIcGkPyQ/03d773f9-b1f0-41e6-951f-baa9b992f800/public"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 29,
+      "name": "션자이",
+      "mbti": "ESFP",
+      "detail": "솔직하고 활발한 성격을 가진 여성으로, 청춘의 열정과 첫사랑의 설렘을 상징하는 인물이다.",
+      "img": "https://image.fmkorea.com/files/attach/new2/20210430/2063168106/2886678967/3563336031/169ac78aac715807d191a89b3b310db6.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 30,
+      "name": "벨라",
+      "mbti": "ESTP",
+      "detail": "평범한 삶 속에서 특별한 사랑을 경험하며 자신만의 강인한 내면을 발견하게 되는 여성이다.",
+      "img": "https://image.cine21.com/resize/cine21/still/2008/1209/M0020023_spe68209[S800,800].jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 31,
+      "name": "루샤오위",
+      "mbti": "ESTP",
+      "detail": "과거와 현재를 넘나드는 특별한 비밀을 간직한 여성으로, 사랑을 위해 모든 것을 걸고 노력하는 인물이다.",
+      "img": "https://img2.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202403/07/BoiledMovie/20240307132725859kgko.png"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 32,
+      "name": "셀린",
+      "mbti": "ENTP",
+      "detail": "독창적이고 자유로운 영혼을 지닌 여성으로, 낯선 사람과의 대화를 통해 새로운 사랑과 인생의 가치를 발견하게 되는 인물이다.",
+      "img": "https://lh3.googleusercontent.com/proxy/4nvmLTI3d34WxL44FvV2dcQgIGAWDys69X-MYpC6rh3iD7749N4HEsf52zELJ43nIqlyi6ZuzU4bchB6i5q9YTBvac9aUqCctXEDnfNrMW80Dfc"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 33,
+      "name": "피오나",
+      "mbti": "ENTP",
+      "detail": "내면의 상처를 지닌 현실적인 여성으로, 아들을 위해 삶을 변화시키려 노력하는 강한 어머니이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/20141114_215/7lovei_1415974068424z56ji_JPEG/9.jpg?type=w420"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 34,
+      "name": "그레타",
+      "mbti": "INTP",
+      "detail": "음악을 통해 자신을 치유하며, 사랑과 이별의 과정을 담담하게 받아들이는 독립적인 여성이다.",
+      "img": "https://ojsfile.ohmynews.com/STD_IMG_FILE/2014/0930/IE001758575_STD.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 35,
+      "name": "메이",
+      "mbti": "INTP",
+      "detail": "지적인 매력을 가진 여성으로, 우연한 만남과 추억 속에서 사랑의 가능성을 발견하는 인물이다.",
+      "img": "https://cdn.mania.kr/dvdprime/g2/data/file/comm/view_thumbnail/4681208_20100209000028609.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 36,
+      "name": "수진",
+      "mbti": "INTJ",
+      "detail": "밝고 긍정적인 성격을 가진 여성으로, 기억을 잃어 가면서도 사랑의 힘으로 삶을 이어 가는 인물이다.",
+      "img": "https://www.chosun.com/resizer/v2/VT4AIAX2NLH7KAAP3AFWGTR5NA.jpg?auth=850956c1ece83d6b94f5d20b01e6466c52737e16d5c77ba004e04cf771a08d5d&width=450&height=298&smart=true"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 37,
+      "name": "애나 스콧",
+      "mbti": "INTJ",
+      "detail": "세계적으로 유명한 여배우로, 평범한 일상 속에서 진정한 사랑을 찾아가는 인물이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAxODA5MDRfMTkg/MDAxNTM2MDcyMDQyMDgz.9FQPNvFWavjGQc1OM0wVwEQfhxYC3gvRqGGm-BWy7mkg.KpYCn8DBE0qW72kefnRWmjWA-mZ1lB0E29pAWyavIdAg.JPEG.bitsalon1/documentTitle_4006518991536071988774.jpg?type=w800"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 38,
+      "name": "최은수",
+      "mbti": "ENTJ",
+      "detail": "독립적이고 재능 있는 피아니스트로, 특별한 만남을 통해 자신의 감정과 목표를 새롭게 발견하게 되는 인물이다.",
+      "img": "https://image.cine21.com/resize/cine21/still/2017/1218/11_19_36__5a3725b8cbd45[X230,230].jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 39,
+      "name": "록시",
+      "mbti": "ENTJ",
+      "detail": "용감하고 재치 있는 비밀 요원으로, 임무 수행 중에도 강한 동료애와 인간적인 매력을 보여주는 인물이다.",
+      "img": "https://cdn.ikoreadaily.co.kr/news/photo/201503/195493_90205_420.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 40,
+      "name": "장영",
+      "mbti": "ESTJ",
+      "detail": "냉철하면서도 사랑 앞에서 흔들리는 현실적인 여성이며, 복잡한 감정 속에서도 자신의 마음을 이해하려 노력하는 인물이다.",
+      "img": "https://img.sbs.co.kr/newsnet/etv/upload/2013/04/02/30000257103_1280.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 41,
+      "name": "정남",
+      "mbti": "ESTJ",
+      "detail": "당찬 성격의 싱글맘으로, 뜻밖의 상황 속에서도 사랑과 가족을 지키기 위해 노력하는 인물이다.",
+      "img": "https://i.namu.wiki/i/KQwFxbuXoDAhdOYyI16ZmGIXDZKR4kO2wGUMp9rC4IuC3C0w3Bsf6QEuKvkDFHc_C_FMDz3v9zlnz-nf0p-WKA.webp"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 42,
+      "name": "환승희",
+      "mbti": "ESFJ",
+      "detail": "대담하고 솔직한 성격을 가진 여성으로, 사랑의 감정을 중요하게 생각하는 열정적인 인물이다.",
+      "img": "https://i.namu.wiki/i/bntrL0xoBBQWc03Ex6zs1VUOt9K_O_RL7C4PrG88QkfnWDKnYlC0Ve1za6QsaJdwcnDVJrVf53EQ6mqNe4vThg.webp"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 43,
+      "name": "셰어",
+      "mbti": "ESFJ",
+      "detail": "부유한 환경에서 자란 밝고 외향적인 성격의 여성으로, 자신의 삶과 인간관계를 통해 성숙해 가는 인물이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAxNjEyMTlfMjYy/MDAxNDgyMTUwMzMyMDE4.-o2u1-QNVL1KSeDuz9nCwisGs-Ym0Y4NP0KrFMkwbU4g.OtszxLrIZZLm3U7ROK-ijvqspJUDdKN7txbQNFfFPDYg.JPEG.tnstnqorqo/Clueless.1995.x264.DTS-WAF.mkv_000420191.jpg?type=w420"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 44,
+      "name": "나탈리",
+      "mbti": "ENFJ",
+      "detail": "밝고 따뜻한 성격을 가진 여성으로, 진솔하고 순수한 사랑을 통해 관계를 발전시켜 나가는 인물이다.",
+      "img": "https://resize-elle.ladmedia.fr/rcrop/638,,forcex/img/var/plain_site/storage/images/loisirs/cinema/dossiers/que-sont-ils-devenus-les-acteurs-de-love-actually/martine-mccutcheon/51725782-1-fre-FR/Martine-McCutcheon.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 45,
+      "name": "유정",
+      "mbti": "ENFJ",
+      "detail": "내면의 아픔을 간직한 여성으로, 사랑과 용서를 통해 자신을 치유해 가는 인물이다.",
+      "img": "https://image.cine21.com/resize/cine21/still/2006/0802/M0020067_happytime_still05[W578-].jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 46,
+      "name": "아카리",
+      "mbti": "ISFJ",
+      "detail": "순수하고 내성적인 성격을 가진 여성으로, 첫사랑의 기억을 소중히 간직하는 인물이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/20110823_63/olaaol_1314104076330wgVUf_JPEG/%C3%CA%BC%D3_5cm%C3%CA%BC%D35cm%28704x396H264%29.avi_000047213.jpg?type=w420"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 47,
+      "name": "조제",
+      "mbti": "ISTJ",
+      "detail": "장애와 외로움 속에서도 자신만의 세계를 지키며, 사랑을 통해 점차 변화하고 성장하는 여성이다.",
+      "img": "https://image.cine21.com/resize/cine21/still/2005/0113/M0020087_jozetiger_6[S800,800].jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 48,
+      "name": "캐서린",
+      "mbti": "INTP",
+      "detail": "열정적이고 지적인 성격을 가진 여성으로, 금지된 사랑 속에서 자신의 진심을 깨닫게 되는 인물이다.",
+      "img": "https://blog.kakaocdn.net/dn/1Xtpc/btrTVgtYfz6/YaisktoOZ37KGeN14yQOO0/img.png"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 49,
+      "name": "소녀",
+      "mbti": "ISFJ",
+      "detail": "음악과 사랑을 통해 내면의 상처를 극복하려는 따뜻하고 현실적인 여성이다.",
+      "img": "https://i.namu.wiki/i/x6E1lH3rMxHWjyAUtV80D5zA77_KP7p_YW83KVe8GgW375A2z-H9X9Kai3lbL8GwY_nZ0JWZFM3WnI9C2CH6Jg.webp"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 50,
+      "name": "에이다",
+      "mbti": "INTJ",
+      "detail": "전쟁 속에서 사랑과 생존을 위해 노력하며 강인하게 변해 가는 여성이다.",
+      "img": "https://cdn.pdjournal.com/news/photo/201605/58382_53298_5524.jpg"
+    }
+  },
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 51,
+      "name": "브리짓 존스",
+      "mbti": "ENFP",
+      "detail": "출판사에서 일하는 싱글 여성으로, 활발하고 감정 표현이 풍부하다.",
+      "img": "https://cdn.lecturernews.com/news/photo/202408/160379_414813_3414.jpg"
+    }
+  }
+  ,
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 52,
+      "name": "사라 토마스",
+      "mbti": "INFP",
+      "detail": "감성적이고 이상주의적인 여성으로, 운명적인 사랑을 꿈꾸며 조나단과의 재회를 기다린다.",
+      "img": "https://i.pinimg.com/originals/10/9b/65/109b65b25fe999a93a2dd299fc4dbec4.jpg"
+    }
+  }
+  ,
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 53,
+      "name": "소피 홀",
+      "mbti": "INFP",
+      "detail": "뉴욕에 거주하며 작가를 꿈꾸는 잡지사 팩트체커이다. 이탈리아 여행 중 우연히 발견한 오래된 편지를 통해 찰리의 할머니와 인연을 맺고, 함께 첫사랑을 찾는 여정을 떠난다.",
+      "img": "https://e0.pxfuel.com/wallpapers/727/969/desktop-wallpaper-and-mobile-letters-to-juliet.jpg"
+    }
+  }
+  ,
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 54,
+      "name": "비비안 워드",
+      "mbti": "ESFP",
+      "detail": "활발하고 즉흥적인 성격의 여성으로, 에드워드와의 만남을 통해 새로운 삶을 꿈꾸게 된다.",
+      "img": "https://cdn.shopify.com/s/files/1/0294/9673/7891/files/how-old-was-julia-roberts-in-pretty-woman-11_600x600.webp?v=1714665419"
+    }
+  }
+  ,
+  {
+    "model": "movies.actress",
+    "fields": {
+      "movie": 55,
+      "name": "이네즈",
+      "mbti": "ESTJ",
+      "detail": "현실적이고 실용적인 성격의 여성으로, 길의 약혼자이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAyMzA5MDVfMjA1/MDAxNjkzODk3NDQ4MzAx.65ZK9oDrywMEwke30BtPTDGRBCG4p-z0ttWWQ4tqecIg.4-FSxDLEjjyMWMTpNbqxXHDa_F3Z2dk0uK2kmpYHwQ0g.PNG.idw103/SE-86ebbfb5-3bbb-4c23-809e-8dc7eee6d9e4.png?type=w800"
+    }
+  }
+]

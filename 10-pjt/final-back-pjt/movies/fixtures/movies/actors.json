@@ -1,0 +1,553 @@
+[
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 1,
+      "name": "카미야 토오루",
+      "mbti": "INFP",
+      "detail": "특별한 이유로 마오리에게 진심 아닌 고백을 하는 소년.",
+      "img": "https://static1.personality-database.com/profile_images/d6936ed573a3417b8c97e986cf1868b4.png"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 2,
+      "name": "리젤 와일드",
+      "mbti": "ISTP",
+      "detail": "고아원에서 가장 오랜 시간을 보낸 아이 중 하나. 처음에는 함께 입양된 니카에게 적대적이지만, 시간이 지남에 따라 둘 사이의 관계는 깊어진다.",
+      "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/04/rigel-in-the-tearsmith.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 3,
+      "name": "카슨 해리슨",
+      "mbti": "INFP",
+      "detail": "만찬 주최자의 조카이자 여행 사진 작가. 가족 재단의 업무에 관심이 없지만, 만찬 준비를 돕게 되면서 몰리와 가까워진다.",
+      "img": "https://i.pinimg.com/originals/08/17/98/081798ecada9f65cf8eb9bfbb3bfe08e.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 4,
+      "name": "치기라 스이",
+      "mbti": "INTJ",
+      "detail": "같은 학교의 인기 있는 남학생. 마야의 고백을 알게 된 후 '가짜 짝사랑 놀이'를 제안한다.",
+      "img": "https://i.imgur.com/Nbuy6tU.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 5,
+      "name": "이도하",
+      "mbti": "ENFJ",
+      "detail": "태인이 소속되어 있는 연신굽신의 공연에서 태인을 만난 뒤 5년째 연애 중이다. 사귄 지 5년이 된 시점에서 외제차 딜러를 하고 있다.",
+      "img": "https://i.namu.wiki/i/NvrArOVoyGcxwxLo1h_fy0mAuH7Bq1DW7osRBcMSxGqYTxuij97-ZJ_aWyBppKFNfgs8O6D7GELCHiNrmadWt23WavCIvD_vGVMEB2w330Bi_atAfFwjw5VtKOsUV0QuZGcZyyt5eNQCBkCUFqY27g.webp"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 6,
+      "name": "우진",
+      "mbti": "ISFP",
+      "detail": "아내 수아를 잃고 아들 지호를 홀로 키우는 가장. 아내를 잃은 슬픔과 아들을 향한 사랑 사이에서 갈등하며, 수아와의 재회를 통해 다시금 사랑의 의미를 되새기게 된다. 다정하고 책임감이 강하며, 내성적이지만 깊은 사랑을 가진 인물.",
+      "img": "https://image.kmib.co.kr/online_image/2018/0313/611815110012194962_1.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 7,
+      "name": "테오도르 로리 로렌스",
+      "mbti": "ISFP",
+      "detail": "마치 자매의 친구로, 조와 깊은 우정을 나누며 성장과 사랑의 다양한 모습을 보여준다.",
+      "img": "https://i.pinimg.com/550x/1d/22/aa/1d22aa1efa5a603e32bdd614ad54d1aa.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 8,
+      "name": "잭 도슨",
+      "mbti": "ISTP",
+      "detail": "자유로운 영혼을 지닌 화가로, 로즈와의 운명적인 사랑을 통해 자신의 삶을 불태운다.",
+      "img": "https://i.namu.wiki/i/4dz04I84orDsXW3WWgPvsyGAOE6mvNKelmSplpq2m0VnT-dZz_1eExR43L9bzaXxP2cJ_YG9HrgC1W6F0l8UKw.webp"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 9,
+      "name": "프린스 아담",
+      "mbti": "ISTJ",
+      "detail": "어린 시절의 오만함과 이기심으로 인해 마녀의 저주를 받아 야수가 된 왕자로, 벨과의 만남을 통해 사랑과 희생의 가치를 깨달으며 진정한 변화를 이룬다.",
+      "img": "https://img5.yna.co.kr/etc/inner/KR/2016/11/15/AKR20161115092700704_07_i_P4.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 10,
+      "name": "마이크 채드웨이",
+      "mbti": "ESTP",
+      "detail": "연애 전문가로, 애비와 함께하며 연애의 본질과 진정성을 탐구한다.",
+      "img": "https://image.cine21.com/resize/cine21/article/2009/0911/K0000012_cyberspace__1[W578-].jpg"
+    }
+  },
+
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 11,
+      "name": "김현",
+      "mbti": "ENFP",
+      "detail": "복잡한 인생을 살아가는 베스트셀러 작가로, 엉킨 인간 관계 속에서 새로운 삶의 전환점을 맞는다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAyMTExMjBfMjIx/MDAxNjM3NDE3Njk1MDkz.MlJ6LfYR0yPSlYYSzlHw-9zYOEUn3xiFgxF5mzOZwlYg.CNQvXQItXz-Ie_Nw6TGResu-58XUMU5y0ssSKIE1Sbsg.JPEG.dance8090/1637417690484.jpg?type=w800"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 12,
+      "name": "알라딘",
+      "mbti": "ESTP",
+      "detail": "거리에서 생계를 꾸리는 청년으로, 램프의 요정을 통해 자신의 진정한 가치를 깨닫는다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAyMDExMTFfMzkg/MDAxNjA1MDk1MzUzMDU1.bHJArJELxDKM1Iw9atrEqwPCVbwjxGRy06L2299GJHQg.j0F0CxJ1ESn4JFoq4jTs0-R3reFSKyRcW8RuMzx_76Ig.JPEG.sugirl22/3.jpg?type=w800"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 13,
+      "name": "포레스트 검프",
+      "mbti": "ISFJ",
+      "detail": "순수한 마음을 지닌 남성으로, 독특한 인생 여정을 통해 사랑과 용기를 배운다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/20150413_226/gmldirns_1428895176847vmClK_PNG/%C6%F72.PNG?type=w420"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 14,
+      "name": "세바스찬 와일더",
+      "mbti": "INFJ",
+      "detail": "재즈 피아니스트로, 자신의 음악적 열정과 미아와의 사랑을 동시에 추구한다.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgSFvpNWua-H2IJ7TNsZsLUS-CN8-vxi0MWw&s"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 15,
+      "name": "시가 하루키",
+      "mbti": "INTP",
+      "detail": "내성적인 학생으로, 사쿠라와의 우정을 통해 세상에 마음을 열게 된다.",
+      "img": "https://www.ilemonde.com/news/photo/201710/7863_7637_5641.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 16,
+      "name": "철수",
+      "mbti": "ISFP",
+      "detail": "야생적인 본능을 지닌 소년으로, 순이를 만나며 인간적인 감정을 배우고 성장한다.",
+      "img": "https://img.sbs.co.kr/newsnet/etv/upload/2012/11/12/30000182056_16v9.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 17,
+      "name": "닉 와일드",
+      "mbti": "ENTP",
+      "detail": "교활하지만 정의로운 여우로, 주디와 함께 음모를 밝혀내는 데 기여한다.",
+      "img": "https://t1.daumcdn.net/cfile/tistory/99B00E3D5C57C5E621"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 18,
+      "name": "노아 플린",
+      "mbti": "ESTP",
+      "detail": "엘의 절친 리의 형으로, 금지된 사랑을 통해 관계의 복잡함을 겪는다.",
+      "img": "https://i.pinimg.com/564x/4b/24/f7/4b24f7c2cf4b457a7232632da8c110b5.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 19,
+      "name": "브라이스 로스키",
+      "mbti": "ISFJ",
+      "detail": "소심한 성격의 소년으로, 줄리와의 관계에서 진정한 감정을 깨닫는다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAxNzA3MTZfODgg/MDAxNTAwMjE2NTY2MjM1.b7-FoxiUZS6IabNEaZpS23p0AMhVgcrACqcUgh_Qq3wg.1CgtR355ayuZEHHCyWiMd_U-MGX7UvzZB_tJQq1vQVMg.JPEG.ekdns627/b7b6062c479c375440b15497782f7b72.jpg?type=w800"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 20,
+      "name": "톰",
+      "mbti": "ENFP",
+      "detail": "로맨틱한 성향을 가진 남성으로, 사랑을 통해 자신의 삶의 의미를 찾으려는 이상주의자다.",
+      "img": "https://ojsfile.ohmynews.com/STD_IMG_FILE/2012/0817/IE001478310_STD.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 21,
+      "name": "조엘",
+      "mbti": "INFJ",
+      "detail": "내성적이고 감정적인 남성으로, 자신의 상처를 극복하기 위해 사랑을 회피하려 하지만 결국 사랑의 본질을 깨닫게 되는 인물이다.",
+      "img": "https://pbs.twimg.com/media/ESRTDFEWAAA_nw-.png"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 22,
+      "name": "상민",
+      "mbti": "ISFP",
+      "detail": "착실하고 따뜻한 남성으로, 사랑을 위해 용기를 내는 모습이 돋보이는 인물이다.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-d0UYMOuWeYGtci5GdfoM7AHqCr9nsz-L5w&s"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 23,
+      "name": "노아",
+      "mbti": "ESFP",
+      "detail": "진실한 사랑을 믿으며, 앨리를 위해 모든 것을 바치는 헌신적인 남성이다.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLG0uaRjq6hjOpf14aSNlJFpqqo14UcGok_w&s"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 24,
+      "name": "우진",
+      "mbti": "INFP",
+      "detail": "매일 다른 모습으로 변하는 특별한 조건 속에서 사랑의 본질에 대해 고민하며 성장하는 인물이다.",
+      "img": "https://i.namu.wiki/i/s2aoj_w4C_Tsj9kQJ0XYY8gUY13D00ZCJQn74v_9SA8WQVxlXBggS-eGsI5KENCcFQYnnX-oroj71eva7Boleg.webp"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 25,
+      "name": "승민",
+      "mbti": "ISFJ",
+      "detail": "건축을 통해 자신의 첫사랑을 다시 마주하며, 과거와 현재를 이어 가는 성숙한 남성이다.",
+      "img": "https://ppss.kr/wp-content/uploads/2015/07/27.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 26,
+      "name": "동현",
+      "mbti": "ENFJ",
+      "detail": "일상 속 외로움에서 벗어나기 위해 낯선 상대와의 교감을 시도하며 변화하는 남성이다.",
+      "img": "https://tvstore-phinf.pstatic.net/20181120_4/1542712409429asAcE_JPEG/00029.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 27,
+      "name": "윌",
+      "mbti": "INTJ",
+      "detail": "사고로 인해 삶의 의욕을 잃은 남성으로, 루이자를 만나 점차 삶에 새로운 가치를 찾게 되는 인물이다.",
+      "img": "https://t1.daumcdn.net/thumb/R720x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/8XK9/image/P8P17643zSCCIQUslctBwzUM410.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 28,
+      "name": "팀",
+      "mbti": "ISFJ",
+      "detail": "시간 여행의 능력을 통해 사랑과 삶의 소중함을 깨달아 가는 따뜻한 마음을 지닌 남성이다.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnWMiOXq7lop3j36rzwWKUJz6K7c0svI1yew&s"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 29,
+      "name": "커징텅",
+      "mbti": "ENFJ",
+      "detail": "첫사랑을 통해 성장하고 성숙해지는 과정을 보여주는 내성적인 남성이다.",
+      "img": "https://cdn.sisunnews.co.kr/news/photo/201802/75905_112330_145.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 30,
+      "name": "에드워드",
+      "mbti": "INFJ",
+      "detail": "신비롭고 매력적인 성격을 가진 남성으로, 벨라를 위해 모든 것을 희생하려는 순정파다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAyMzEwMTFfMTky/MDAxNjk2OTg3Njg2NTIw.Sg0EsRqY_2VvQLErcUg4urm3b7Fif3Q-qD8sU1iHZ0Ig.-u3alqRaRbXPUfO12glib4MuIdDzTPyqX8gemuc2_0cg.JPEG.b117711/SE-a6d02dbf-6bab-4d42-a778-01a1de96dcbf.jpg?type=w400"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 31,
+      "name": "예샹룬",
+      "mbti": "ISFP",
+      "detail": "음악을 통해 사랑을 표현하며, 루샤오위와의 관계를 통해 성장하는 남성이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAxODEyMjVfMjg0/MDAxNTQ1NzA5NDA5NzQx.Pawt6GfTR7xa8pnxmbXTMO1ZuleQs_R9N8ikN31OyAEg.qBPt5_yfgUkuAjCg5wUuQZbdHatrr_plDuOyJWlNng8g.JPEG.sin6338ki/2.jpg?type=w800"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 32,
+      "name": "제시",
+      "mbti": "ENFP",
+      "detail": "낭만적이고 호기심 많은 남성으로, 우연한 만남에서 깊은 관계를 만들어 가는 과정을 소중히 여기는 인물이다.",
+      "img": "https://ofdebonair.com/wp-content/uploads/2024/03/image-10-optimized.png"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 33,
+      "name": "윌",
+      "mbti": "ISTP",
+      "detail": "자아도취적인 라이프스타일을 즐기던 남성으로, 피오나와 그녀의 아들과의 관계를 통해 성숙해지는 과정을 보여준다.",
+      "img": "https://img1.daumcdn.net/thumb/C500x500.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/7Xby/image/ono-wI69ObWS6XlhHdckgGlbLig.jpeg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 34,
+      "name": "댄",
+      "mbti": "ISFP",
+      "detail": "음악에 대한 열정을 되찾으며 새로운 시작을 꿈꾸는 따뜻한 마음을 가진 남성이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjZfNjAg/MDAxNzI3MjgyNDc1MTc1.poGshqldm7VrVYNpWj9AEj-sDIgpvNhbqynA7T2BW3sg.v19KZjV2K348l-CLwaEJpgI94wBO-5bdxAYy-T332Csg.JPEG/005.jpg?type=w800"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 35,
+      "name": "동하",
+      "mbti": "ENFP",
+      "detail": "따뜻하고 성실한 성격의 남성으로, 자신의 진심을 전하기 위해 노력하는 사랑에 충실한 인물이다.",
+      "img": "https://cdnimage.dailian.co.kr/news/202008/news_1596606602_906099_m_1.jpeg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 36,
+      "name": "철수",
+      "mbti": "ESFP",
+      "detail": "묵묵히 사랑을 지키며, 수진의 곁을 끝까지 지키는 헌신적이고 강인한 남성이다.",
+      "img": "https://i.namu.wiki/i/oEm15NMa0Xuh94fn-s0qvYt3Gg-vq_Y_KYU2FpEhTdIVoYMXwUYv47eC6L_gvQVuIP57NRxymoisLDIoBLimwQ.webp"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 37,
+      "name": "윌리엄 태커",
+      "mbti": "INFP",
+      "detail": "소박하고 유머러스한 성격을 가진 남성으로, 애나와의 만남을 통해 사랑의 용기를 배우는 인물이다.",
+      "img": "https://menu.mt.co.kr/theleader/thumb/2019/12/06/2019122420167884102_1.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 38,
+      "name": "한민욱",
+      "mbti": "ISTJ",
+      "detail": "국가를 이끄는 책임감 속에서도 음악과 사랑의 가치를 이해하고 감동하는 인간적인 면모를 지닌 남성이다.",
+      "img": "https://image.cine21.com/resize/IMGDB/still/2002/0723/medium/180140_sc236[W578-].jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 39,
+      "name": "에그시",
+      "mbti": "ENFP",
+      "detail": "성장하며 책임감을 갖춘 젊은 비밀 요원으로, 사랑과 임무를 동시에 지키기 위해 노력하는 인물이다.",
+      "img": "https://i.namu.wiki/i/VpeIr371OjJNm3XRzDurirWpwiPSe2bN4qMQ_3tNQvr5GmG_-9o1myYRUo4uNEgbxTTNoYb_4vy1Rj8xBH4w2g.webp"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 40,
+      "name": "이동희",
+      "mbti": "ISTP",
+      "detail": "따뜻하면서도 미련을 버리지 못하는 남성으로, 연애와 이별을 통해 성숙해 가는 과정을 보여주는 인물이다.",
+      "img": "https://www.dtoday.co.kr/news/photo/201303/77377_40031_5822.JPG"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 41,
+      "name": "현수",
+      "mbti": "ESFP",
+      "detail": "인기 있는 라디오 DJ로, 갑작스레 찾아온 가족과의 관계를 통해 새로운 책임감을 배우는 인물이다.",
+      "img": "https://db.kookje.co.kr/news2000/photo/2008/1128/L20081128.22039185328i1.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 42,
+      "name": "황우연",
+      "mbti": "ENFP",
+      "detail": "순수하고 헌신적인 성격의 남성으로, 오랜 시간 동안 변치 않는 사랑을 보여주는 인물이다.",
+      "img": "https://newsimg.hankookilbo.com/2018/08/07/201808072357040627_3.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 43,
+      "name": "타이",
+      "mbti": "INTP",
+      "detail": "똑똑하고 현실적인 성격의 남성으로, 셰어의 성장 과정에 중요한 역할을 하는 인물이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAxOTAzMjRfOCAg/MDAxNTUzMzkzNzczOTc0.-9-jPi5X5iyP05t2rJAlrNrwR_IQS9M2JjCYD01jYMEg.flao1wWu4V9qNHS4Qj3mUDrkunM-TIruqItsuBLHof8g.JPEG.hjy24090/%ED%8F%B4%EB%9F%AC%EB%93%9C.jpg?type=w800"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 44,
+      "name": "데이비드",
+      "mbti": "ESTJ",
+      "detail": "영국 총리로서 국가의 리더 역할을 하면서도 사랑 앞에서는 수줍고 인간적인 면모를 보여주는 인물이다.",
+      "img": "https://i.ytimg.com/vi/peiRtkXMYQ8/maxresdefault.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 45,
+      "name": "윤수",
+      "mbti": "INFJ",
+      "detail": "죄책감과 고통 속에서도 유정을 통해 희망과 삶의 의미를 되찾아 가는 남성이다.",
+      "img": "https://image.cine21.com/resize/cine21/still/2006/0313/M0020057_happytime_still03[S800,800].jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 46,
+      "name": "타카키",
+      "mbti": "INFP",
+      "detail": "내성적이고 감성적인 성격의 남성으로, 아카리에 대한 첫사랑의 감정을 마음 깊이 간직하는 인물이다.",
+      "img": "https://blog.kakaocdn.net/dn/cKHkPi/btstSyBa0qE/fTxNW2bYKYkTPvKeb0YIW1/img.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 47,
+      "name": "츠네오",
+      "mbti": "ISFP",
+      "detail": "따뜻하고 현실적인 성격의 남성으로, 조제와의 관계를 통해 삶의 또 다른 의미를 깨달아가는 인물이다.",
+      "img": "https://cdn.tamsa.co.kr/news/photo/202402/193506_192711_831.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 48,
+      "name": "알마시",
+      "mbti": "INFJ",
+      "detail": "고독하고 신비로운 남성으로, 캐서린과의 사랑을 통해 삶의 모든 것을 걸게 되는 인물이다.",
+      "img": "https://blog.kakaocdn.net/dn/Slyt7/btrTQ159xCd/s22YckKUelOSAkqIe2Rxx0/img.png"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 49,
+      "name": "남자",
+      "mbti": "ENFP",
+      "detail": "음악을 통해 자신의 감정을 표현하며, 소녀와의 만남을 통해 새롭게 변해 가는 남성이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/20130907_203/yogurtradio_1378522152382DPAwi_JPEG/%BF%F8%BD%BA%C3%B9%B8%B8%B3%B2.JPG?type=w420"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 50,
+      "name": "인만",
+      "mbti": "ISFP",
+      "detail": "사랑하는 사람과 다시 만나기 위해 위험한 여정을 선택하는 헌신적인 남성이다.",
+      "img": "https://cdn.lecturernews.com/news/photo/202404/150899_401437_251.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 51,
+      "name": "마크 다아시",
+      "mbti": "ESTJ",
+      "detail": "성공한 변호사로, 원칙적이고 책임감이 강한 성격이다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAyMzExMDZfMTM0/MDAxNjk5MjI2MDA5ODQ4.e7jUTrm2x1qfWeK5s9vd4I0Jb2o7NyH6VD8TQfEbeNEg.X2Bp6rDq6Yy1UNcnlRlWDIMBi9qXWwiydPnyjVUjf8og.JPEG.mushroompage/common%EF%BC%BF20231106%EF%BC%BF081113.jpg?type=w800"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 52,
+      "name": "조나단 트레이거",
+      "mbti": "ESFJ",
+      "detail": "뉴욕에 거주하는 성실하고 사교적인 남성으로, 우연한 만남을 운명으로 믿으며 사랑을 찾아 나선다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MDNfODQg/MDAxNTAxNzM5NjczNTYz.bV9RIQzmKXr3806VTt-XpouOBJXRb_kLVOy8PX0J9LUg.2hklPGrLDLVPQRI00wfQyM3IPSrIT2pevb3PiYZ6S1Eg.JPEG.joel1234/Serendipity.2001.1080p.BluRay.X264-AMIABLE.mkv_20170802_072310.058.jpg?type=w800"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 53,
+      "name": "찰리 와이먼",
+      "mbti": "ESFJ",
+      "detail": "영국 출신의 변호사로, 책임감이 강하고 타인에 대한 배려심이 깊다. 할머니의 첫사랑을 찾기 위해 이탈리아로 동행하며 소피와 가까워진다.",
+      "img": "https://cdn.energykorea.co.kr/news/photo/201009/4345_2461_1217.jpg"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 54,
+      "name": "에드워드 루이스",
+      "mbti": "ENTJ",
+      "detail": "성공한 기업 인수합병 전문가로, 냉철하고 목표 지향적인 성격을 지녔다.",
+      "img": "https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F995004335993B0551E"
+    }
+  },
+  {
+    "model": "movies.actor",
+    "fields": {
+      "movie": 55,
+      "name": "길 펜더",
+      "mbti": "ENTP",
+      "detail": "성공한 할리우드 각본가이자 소설가 지망생으로, 창의적이고 호기심이 많으며, 새로운 경험을 추구하는 성향을 지녔다.",
+      "img": "https://mblogthumb-phinf.pstatic.net/MjAyMzA5MTBfMTU2/MDAxNjk0MzA2MDkyODE3.SUo0e7PfKZ9rkUvABCh8aAaokwjn4y4K_2FGOjMi7MAg.ttLexOGzMwl9rjCmIqrawhZZSDIWBCxXtie4bZxeRM4g.PNG.psj9105/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-09-10_%EC%98%A4%EC%A0%84_9.33.28.png?type=w400"
+    }
+  }
+]
